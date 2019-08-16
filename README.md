@@ -1,6 +1,6 @@
 # Overview
 
-CushionCouch is part 2 of 2 for the CushionDB backend. It is setup as a Docker image and is deployed along with the [CushionServer](https://github.com/CushionDB/CushionServer) Docker image using Docker Compose. This allows for simple deployment and configuration.
+CushionCouch is part 2 of 2 for the CushionDB backend. It is setup as a Docker image and is deployed along with the [CushionServer](https://github.com/CushionDB/CushionServer) Docker image using Docker Compose. These two backend components are desgined to work with [CushionClient](https://github.com/CushionDB/CushionClient).
 
 CushionCouch uses CouchDB as its base image. It applies a custom `.ini` configuration file to create the pre-configured CouchDB instance required to work with CushionDB.
 
