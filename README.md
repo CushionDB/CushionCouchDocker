@@ -18,8 +18,10 @@ From inside the [CushionDocker](https://github.com/CushionDB/CushionDocker) dire
 
 # The Team
 
-[Avshar Kirksall]() *Software Engineer* Brooklyn, NY
+[Avshar Kirksall](https://avshrk.github.io/
+) *Software Engineer* Brooklyn, NY
 
 [Jaron Truman]() *Software Engineer* Las Vegas, NV
 
-[Daniel Rote]() *Software Engineer* Seattle, WA
+[Daniel Rote](https://drote.github.io/
+) *Software Engineer* Seattle, WA
